@@ -1,22 +1,6 @@
-# ANN-Based 5G RAN Automation Using AI
-
-## Project Overview
-This project uses an Artificial Neural Network (ANN) to predict 5G RAN throughput using radio network parameters.
-
-## Input Parameters
-- Frequency (GHz)
-- Bandwidth (MHz)
-- SINR (dB)
-- Tx Power (dBm)
-
-## Output Parameter
-- Throughput (Gbps)
-
-## Files Included
-- ANN_5G_RAN_Training_Data.docx – Project report and training data
-
-## Objective
-To automate 5G Radio Access Network optimization using AI-based throughput prediction.
-
-## Author
-Anusha Thyadi
+Frequency,Bandwidth,SINR,TxPower,Throughput
+24,0.8,18,32,0.8
+26,2.5,16,36,1.2
+28,3.2,9,40,1.8
+30,2.6,10,42,1.0
+32,2.0,11,38,0.6
