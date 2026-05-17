@@ -1,6 +1,15 @@
-Frequency,Bandwidth,SINR,TxPower,Throughput
-24,0.8,18,32,0.8
-26,2.5,16,36,1.2
-28,3.2,9,40,1.8
-30,2.6,10,42,1.0
-32,2.0,11,38,0.6
+# ANN-Based 5G RAN Automation
+
+This project predicts 5G RAN throughput using an Artificial Neural Network (ANN).
+
+## Inputs
+- Frequency (GHz)
+- Bandwidth (MHz)
+- SINR (dB)
+- Tx Power (dBm)
+
+## Output
+- Throughput (Gbps)
+
+## Files
+- ANN_5G_RAN_Training_Data.docx
